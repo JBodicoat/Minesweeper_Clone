@@ -24,3 +24,9 @@ D:\University-Repository\Foundation_Year\Term 2\Term 2 Programs\Minesweeper\bin\
 D:\University-Repository\Foundation_Year\Term 2\Term 2 Programs\Minesweeper\bin\Debug\ConsoleApp1.pdb
 D:\University-Repository\Foundation_Year\Term 2\Term 2 Programs\Minesweeper\obj\Debug\ConsoleApp1.exe
 D:\University-Repository\Foundation_Year\Term 2\Term 2 Programs\Minesweeper\obj\Debug\ConsoleApp1.pdb
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\bin\Debug\ConsoleApp1.exe.config
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\bin\Debug\ConsoleApp1.exe
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\bin\Debug\ConsoleApp1.pdb
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\obj\Debug\ConsoleApp1.exe
+D:\Programming_Portfolio\Minesweeper_Clone\Minesweeper\obj\Debug\ConsoleApp1.pdb
